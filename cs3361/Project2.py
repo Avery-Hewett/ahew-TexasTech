@@ -2,7 +2,8 @@ import sys
 
 def main():
     """ main driver
-    Input: none
+    Input:
+        - argv[1] expected to be string of file location
     Output none
     Side Effect:
         - prints Parse_tree or 'error'
